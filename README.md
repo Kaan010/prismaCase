@@ -1,5 +1,7 @@
 Tests are not covering all project.
 
+I used https://www.convertcsv.com/csv-to-sql.htm this web page to convert csv to sql
+
 ## Postman EndPoints Link <br>
 open Postman-import-link-paste <br>
 https://www.getpostman.com/collections/a8e5c0a0cfca9dedfc67
